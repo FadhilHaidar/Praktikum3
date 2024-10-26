@@ -1,3 +1,29 @@
+# TUGAS: MENGUBAH FLOWCHART MENJADI PYTHON CODE
+
+Flowchart
+
+![Flowchart (4)](https://github.com/user-attachments/assets/22bba2c1-0aa0-4ca4-8038-337ef74ef6d8)
+
+Python Code:
+
+![image](https://github.com/user-attachments/assets/59230a2f-0918-4996-af43-eccbab1e59a1)
+
+Penjelasan:
+
+1. Program akan meminta pengguna untuk terus memasukkan bilangan.
+
+2. Bilangan terbesar sementara disimpan dalam variabel terbesar.
+
+3. Jika bilangan baru lebih besar dari nilai terbesar sementara, maka bilangan itu menjadi bilangan terbesar.
+
+4. Proses input berhenti ketika pengguna memasukkan 0.
+
+5. Setelah proses selesai, program menampilkan bilangan terbesar yang telah ditemukan.
+
+Output:
+
+![image](https://github.com/user-attachments/assets/25b5050f-2425-41d6-9d7a-f30d0c4e8980)
+
 # LATIHAN 1
 
 1. Penggunaan end dalam print
